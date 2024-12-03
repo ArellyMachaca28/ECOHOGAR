@@ -1,5 +1,4 @@
-# ECOHOGAR 🌿  
-Bienvenido a **ECOHOGAR**, una tienda en línea enfocada en ofrecer productos sostenibles y fomentar un estilo de vida ecológico. Este proyecto fue desarrollado como parte de [nombre del curso o contexto del proyecto], utilizando [Wix/otras tecnologías].
+# ECOHOGAR 🌿  Bienvenido a **ECOHOGAR**, una tienda en línea enfocada en ofrecer productos sostenibles y fomentar un estilo de vida ecológico. Este proyecto fue desarrollado utilizando la página wix. Procedimiento del proyecto: https://www.canva.com/design/DAGWaKvVvMg/9vrS1AFsQ_00r67vErjbWg/edit
 
 ---
 
